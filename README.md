@@ -3,7 +3,7 @@
 # 스마트 인재 개발원 최종 프로젝트
 
 **팀명:** SFAC Solution  
-**역할:** 팀장 및 풀스택 개발  
+**역할:** 부팀장, PM, Data preprocessing, modeling, analysis 
 **주제:** CAD 도면 추천 및 예상 견적 서비스
 
 ---
@@ -12,7 +12,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**소요기간:** 8주
+**소요기간:** 6주
 
 </div>
 
@@ -35,11 +35,11 @@
 
 ## 팀 역할
 
-팀장으로서 프로젝트 전체를 이끌며, 풀스택 개발자로서 프론트엔드와 백엔드를 모두 담당했습니다. 프로젝트의 전반적인 아키텍처 설계와 주요 기능 구현을 주도하였습니다.
+부팀장으로서 프로젝트의 전반적인 진행과 데이터 관련 역할을 맡았습니다.
 
 ## 프로젝트 소요 기간
 
-총 8주 동안 진행되었으며, 기획, 설계, 개발, 테스트, 배포의 전 과정을 거쳤습니다.
+총 6주 동안 진행되었습니다.
 
 ## 브랜치 구조
 
