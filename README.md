@@ -12,7 +12,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**소요기간:** 6주
+**소요기간:** 8주
 
 </div>
 
@@ -39,7 +39,7 @@
 
 ## 프로젝트 소요 기간
 
-총 6주 동안 진행되었습니다.
+총 8주 동안 진행되었습니다.
 
 ## 브랜치 구조
 
